@@ -1,6 +1,6 @@
 # Computation in Nuclear Engineering
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/munkm/2022-07-29-wyse/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/munkm/2023-06-27-wyse/main)
 
 Click on the button above to get started! Once your binder has launched, click
 on the notebook `computational-nuclear-activity.ipynb` start the lesson. 
@@ -9,7 +9,7 @@ on the notebook `computational-nuclear-activity.ipynb` start the lesson.
 
 This lesson material is open and freely available to all who would like to use
 it. If you have any issues with the lesson, please feel free to file an issue
-to this repository's issues at https://github.com/munkm/2022-07-29-wyse. Any
+to this repository's issues at https://github.com/munkm/2023-06-27-wyse. Any
 feedback to this lesson is most welcome. 
 
 #### References
