@@ -1,9 +1,9 @@
 # Computation in Nuclear Engineering
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/munkm/2023-06-27-wyse/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilnovak/2023-06-27-wyse/HEAD)
 
 Click on the button above to get started! Once your binder has launched, click
-on the notebook `computational-nuclear-activity.ipynb` start the lesson. 
+on the notebook `intro.ipynb` start the lesson. 
 
 #### Feedback on the lesson?
 
